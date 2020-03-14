@@ -1,0 +1,25 @@
+{
+  "name": "jken",
+  "version": "1.0.0",
+  "description": "The Static Resources in jken.site",
+  "main": "index.js",
+  "dependencies": {
+    "tinymce": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jken-site/jken-cdn.git"
+  },
+  "keywords": [
+    "jken"
+  ],
+  "author": "ken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jken-site/jken-cdn/issues"
+  },
+  "homepage": "https://github.com/jken-site/jken-cdn#readme"
+}
